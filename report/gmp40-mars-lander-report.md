@@ -90,7 +90,7 @@ The state machine for the flight controller is as follows:
 
 The simulator sends all position coordinates and velocity components of the lander&mdash;that's what the `pos` and `vel` registers count. I also decided to send the `int` $(10)_2^{\times 16}$ as a start code, signalling the beginning of another (poisition, velocity) set so that the controller can reorient itself in case the communication goes wrong.[^choice] 
 
-The `COMPUTE` state holds the most interesting design choices. By "computing" the proportional control output, I really mean computing the _unbounded_ output, without the enforced plateaus of the handout. (The bounds are enforced by the `FILTER` state). The math I used in Assignment 5 can be summarised as
+The `COMPUTE` state holds the most interesting design choices. By "computing" the proportional control output, I really mean computing the _unbounded_ output, without the enforced plateaus of the handout. (The bounds are enforced by the `FILTER` state). The math I used in Assignment 5 (not shared) can be summarised as
 $$P_{\mathrm{out}} = -(0.5 + K_h\cdot h + v_r),$$
 where $h$ is the altitude of the lander and $v_r$ is its descent speed, negative if down. 
 
@@ -109,7 +109,7 @@ Finally, the constants `a` and `b` represent waiting times. The first is to ensu
 
 ## Testing
 
-Unfortunately, my testing procedure was too chaotic to be neatly summarised in a session. The leftover files resulting from it can be read in the ``../../Assignment5.5`` folder.
+Unfortunately, my testing procedure was too chaotic to be neatly summarised in a session. The leftover files resulting from it can be read in the ``../Assignment5.5`` folder (except the lander code, which cannot be included).
 
 I tested each hardware level incrementally. In order to test either the UART or `int` exchange modules, I:
 1. created a top module which used them to flood the serial port with a sequence of characters;
@@ -169,7 +169,7 @@ With the FPGA controller, the lander arrives safely, as can be seen in the below
 
 ![](../pictures/image-3.png)
 
-Therefore, it is safe to say the FPGA does incur in excessive use of fuel, as could be expected. But it is more efficient than the version with $K_h = 1/60$ I used in Assignment 5, so it is still well within acceptable levels.
+Therefore, it is safe to say the FPGA does incur in excessive use of fuel, as could be expected. But it is more efficient than the version with $K_h = 1/60$ I used in Assignment 5 (not shared), so it is still well within acceptable levels.
 
 One could also ask how slow this method is compared to realtime. Considering that the runtime is dominated by the UART transfers, we can compare how long it takes to land in the simulator vs how long it takes in reallife, running the simulator at a large speed (jumps of 10s, in this case). These measurements showed that for Scenario 5, the simulation registers 560s, whereas the stopwatch registered 102s. For Scenario 1, the simulation registers 340s, whereas the stopwatch registered 62s. Therefore, it is reasonable to say that the FPGA board is able to keep up with faster than realtime control, which is desirable. (Without the board, the time of the simulation is small). 
 
@@ -197,5 +197,5 @@ Lastly, I would like to thank the support from my parents and Jesus in this proj
 [^truth]: Actually I initially thought having a larger fraction would give more precision, but it turns out the representation of $1/15$ is around four times more precise than $1/7$ (which, in turn, is eight times more precise than $1/56$). However, since $1/56$ consumes less fuel by about an order of magnitude, it is still a better choice. 
 [^completeness]: For the sake of completeness, I must say I've also modified the `lander.cpp` file in a trivial way to accomodate this package, and transferred the class `vector3d` to a separate file `vector3d.h` while I experimented with my library.
 [^wsl]: As I ran my code in WSL2, I had to route the FPGA board by the following PowerShell commands: `usbipd list`, which listed devices; `usbipd bind --busid 2-1`, to make the device shareable (2-1 was the `BUSID` listed before); and `usbipd attach --wsl --busid 2-1` to make it available from within WSL2. 
-[^automated]: This was done with the automated `process.ipynb` file, like in Assignment 5.
+[^automated]: This was done with the automated `process.ipynb` file, like in Assignment 5 (not shared).
 [^expla]: Unfortunately, due to its license, I cannot share modified versions of the Mars Lander code. The original simulator is included here as `../lander.zip`, along with a `Makefile` to compile it with the libraries used.

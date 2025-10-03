@@ -1,0 +1,844 @@
+sender to send int          0
+sender to send int          0
+data =   0
+int receiver on state 0, int_avail = 0, data =   0, oint=           0, bytes = 0
+data =   0
+int receiver on state 0, int_avail = 0, data =   0, oint=           0, bytes = 0
+sender to send int 2863311530
+sender is sending 170
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+getting 1 170
+int receiver on state 2, int_avail = 0, data = 170, oint=         170, bytes = 1
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 2 170
+int receiver on state 2, int_avail = 0, data = 170, oint=       43690, bytes = 2
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 3 170
+int receiver on state 2, int_avail = 0, data = 170, oint=    11184810, bytes = 3
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 4 170
+int receiver on state 0, int_avail = 1, data = 170, oint= -1431655766, bytes = 0
+sender to send int 3426341376
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending 210
+data =   2
+data =  18
+data =  82
+data = 210
+sending 210
+receiver latching 210
+getting 2 210
+int receiver on state 2, int_avail = 0, data = 210, oint=       53760, bytes = 2
+sender is sending  57
+data =   0
+data =   1
+data =   9
+data =  25
+data =  57
+sending  57
+receiver latching  57
+getting 3  57
+int receiver on state 2, int_avail = 0, data =  57, oint=     3789312, bytes = 3
+sender is sending 204
+data =   0
+data =   4
+data =  12
+data =  76
+data = 204
+sending 204
+receiver latching 204
+getting 4 204
+int receiver on state 0, int_avail = 1, data = 204, oint=  -868625920, bytes = 0
+sender to send int          0
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender to send int      32088
+sender is sending  88
+data =   8
+data =  24
+data =  88
+sending  88
+int receiver on state 1, int_avail = 0, data =  88, oint=           0, bytes = 0
+getting 1  88
+int receiver on state 2, int_avail = 0, data =  88, oint=          88, bytes = 1
+sender is sending 125
+data =   0
+data =   1
+data =   5
+data =  13
+data =  29
+data =  61
+data = 125
+sending 125
+receiver latching 125
+getting 2 125
+int receiver on state 2, int_avail = 0, data = 125, oint=       32088, bytes = 2
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=       32088, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=       32088, bytes = 0
+sender to send int          0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sum of pos =  868625920
+height =    1809920
+transformed height 1:     226240
+transformed height 2:      31815
+sum of velocities =       32088
+result = 4294903265
+        -76        180
+case 1
+sender to send int        221
+sender is sending   0
+sender is sending 221
+data =   1
+data =   5
+data =  13
+data =  29
+data =  93
+data = 221
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+sending 221
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+getting 1 221
+int receiver on state 2, int_avail = 0, data = 221, oint=         221, bytes = 1
+sender is sending   0
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 2
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 3
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+getting 4   0
+data received =         221
+int receiver on state 0, int_avail = 1, data =   0, oint=         221, bytes = 0
+sender to send int 2863311530
+sender to send int          0
+sender is sending 170
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+int receiver on state 1, int_avail = 0, data = 170, oint=           0, bytes = 0
+getting 1 170
+int receiver on state 2, int_avail = 0, data = 170, oint=         170, bytes = 1
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 2 170
+int receiver on state 2, int_avail = 0, data = 170, oint=       43690, bytes = 2
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 3 170
+int receiver on state 2, int_avail = 0, data = 170, oint=    11184810, bytes = 3
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 4 170
+int receiver on state 0, int_avail = 1, data = 170, oint= -1431655766, bytes = 0
+sender to send int 3426341376
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending 210
+data =   2
+data =  18
+data =  82
+data = 210
+sending 210
+receiver latching 210
+getting 2 210
+int receiver on state 2, int_avail = 0, data = 210, oint=       53760, bytes = 2
+sender is sending  57
+data =   0
+data =   1
+data =   9
+data =  25
+data =  57
+sending  57
+receiver latching  57
+getting 3  57
+int receiver on state 2, int_avail = 0, data =  57, oint=     3789312, bytes = 3
+sender is sending 204
+data =   0
+data =   4
+data =  12
+data =  76
+data = 204
+sending 204
+receiver latching 204
+getting 4 204
+int receiver on state 0, int_avail = 1, data = 204, oint=  -868625920, bytes = 0
+sender to send int          0
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender to send int      32088
+sender is sending  88
+data =   8
+data =  24
+data =  88
+sending  88
+int receiver on state 1, int_avail = 0, data =  88, oint=           0, bytes = 0
+getting 1  88
+int receiver on state 2, int_avail = 0, data =  88, oint=          88, bytes = 1
+sender is sending 125
+data =   0
+data =   1
+data =   5
+data =  13
+data =  29
+data =  61
+data = 125
+sending 125
+receiver latching 125
+getting 2 125
+int receiver on state 2, int_avail = 0, data = 125, oint=       32088, bytes = 2
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=       32088, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=       32088, bytes = 0
+sender to send int          0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sum of pos =  868625920
+height =    1809920
+transformed height 1:     226240
+transformed height 2:      31815
+sum of velocities =       32088
+result = 4294903265
+        -76        180
+case 1
+sender to send int        221
+sender is sending   0
+sender is sending 221
+data =   1
+data =   5
+data =  13
+data =  29
+data =  93
+data = 221
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+sending 221
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+int receiver on state 1, int_avail = 0, data = 221, oint=           0, bytes = 0
+getting 1 221
+int receiver on state 2, int_avail = 0, data = 221, oint=         221, bytes = 1
+sender is sending   0
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 2
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 3
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+getting 4   0
+data received =         221
+int receiver on state 0, int_avail = 1, data =   0, oint=         221, bytes = 0
+sender to send int 2863311530
+sender to send int          0
+sender is sending 170
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+int receiver on state 1, int_avail = 0, data = 170, oint=           0, bytes = 0
+getting 1 170
+int receiver on state 2, int_avail = 0, data = 170, oint=         170, bytes = 1
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 2 170
+int receiver on state 2, int_avail = 0, data = 170, oint=       43690, bytes = 2
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 3 170
+int receiver on state 2, int_avail = 0, data = 170, oint=    11184810, bytes = 3
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 4 170
+int receiver on state 0, int_avail = 1, data = 170, oint= -1431655766, bytes = 0
+sender to send int 3426341376
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending 210
+data =   2
+data =  18
+data =  82
+data = 210
+sending 210
+receiver latching 210
+getting 2 210
+int receiver on state 2, int_avail = 0, data = 210, oint=       53760, bytes = 2
+sender is sending  57
+data =   0
+data =   1
+data =   9
+data =  25
+data =  57
+sending  57
+receiver latching  57
+getting 3  57
+int receiver on state 2, int_avail = 0, data =  57, oint=     3789312, bytes = 3
+sender is sending 204
+data =   0
+data =   4
+data =  12
+data =  76
+data = 204
+sending 204
+receiver latching 204
+getting 4 204
+int receiver on state 0, int_avail = 1, data = 204, oint=  -868625920, bytes = 0
+sender to send int          0
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender to send int      32088
+sender is sending  88
+data =   8
+data =  24
+data =  88
+sending  88
+int receiver on state 1, int_avail = 0, data =  88, oint=           0, bytes = 0
+getting 1  88
+int receiver on state 2, int_avail = 0, data =  88, oint=          88, bytes = 1
+sender is sending 125
+data =   0
+data =   1
+data =   5
+data =  13
+data =  29
+data =  61
+data = 125
+sending 125
+receiver latching 125
+getting 2 125
+int receiver on state 2, int_avail = 0, data = 125, oint=       32088, bytes = 2
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=       32088, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=       32088, bytes = 0
+sender to send int          0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sender is sending   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+sender is sending   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+sum of pos =  868625920
+height =    1809920
+transformed height 1:     226240
+transformed height 2:      31815
+sum of velocities =       32088
+result = 4294903265
+        -76        180
+case 1
+sender to send int        221
+sender is sending   0
+sender is sending 221
+data =   1
+data =   5
+data =  13
+data =  29
+data =  93
+data = 221
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+sending 221
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+int receiver on state 1, int_avail = 0, data = 221, oint=           0, bytes = 0
+getting 1 221
+int receiver on state 2, int_avail = 0, data = 221, oint=         221, bytes = 1
+sender is sending   0
+sender is sending   0
+data =   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 2
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 3
+getting 3   0
+int receiver on state 2, int_avail = 0, data =   0, oint=         221, bytes = 3
+sender is sending   0
+sender is sending   0
+sending   0
+receiver latching   0
+sending   0
+receiver latching   0
+getting 4   0
+int receiver on state 0, int_avail = 1, data =   0, oint=           0, bytes = 0
+getting 4   0
+data received =         221
+int receiver on state 0, int_avail = 1, data =   0, oint=         221, bytes = 0
+sender to send int 2863311530
+sender to send int          0
+sender is sending 170
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+int receiver on state 1, int_avail = 0, data = 170, oint=           0, bytes = 0
+getting 1 170
+int receiver on state 2, int_avail = 0, data = 170, oint=         170, bytes = 1
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 2 170
+int receiver on state 2, int_avail = 0, data = 170, oint=       43690, bytes = 2
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 3 170
+int receiver on state 2, int_avail = 0, data = 170, oint=    11184810, bytes = 3
+sender is sending 170
+data =   0
+data =   2
+data =  10
+data =  42
+data = 170
+sending 170
+receiver latching 170
+getting 4 170
+int receiver on state 0, int_avail = 1, data = 170, oint= -1431655766, bytes = 0
+sender to send int 3426341376
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending 210
+data =   2
+data =  18
+data =  82
+data = 210
+sending 210
+receiver latching 210
+getting 2 210
+int receiver on state 2, int_avail = 0, data = 210, oint=       53760, bytes = 2
+sender is sending  57
+data =   0
+data =   1
+data =   9
+data =  25
+data =  57
+sending  57
+receiver latching  57
+getting 3  57
+int receiver on state 2, int_avail = 0, data =  57, oint=     3789312, bytes = 3
+sender is sending 204
+data =   0
+data =   4
+data =  12
+data =  76
+data = 204
+sending 204
+receiver latching 204
+getting 4 204
+int receiver on state 0, int_avail = 1, data = 204, oint=  -868625920, bytes = 0
+sender to send int          0
+sender is sending   0
+data =   0
+sending   0
+int receiver on state 1, int_avail = 0, data =   0, oint=           0, bytes = 0
+getting 1   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 1
+sender is sending   0
+sending   0
+receiver latching   0
+getting 2   0
+int receiver on state 2, int_avail = 0, data =   0, oint=           0, bytes = 2
+sender is sending   0
+- tb_flight_controller.v:19: Verilog $finish
+- S i m u l a t i o n   R e p o r t: Verilator 5.034 2025-02-24
+- Verilator: $finish at 9ms; walltime 0.235 s; speed 40.587 ms/s
+- Verilator: cpu 0.222 s on 1 threads; alloced 89 MB

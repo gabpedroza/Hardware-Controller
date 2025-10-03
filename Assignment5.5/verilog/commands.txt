@@ -1,0 +1,2 @@
+verilator -CFLAGS -fcoroutines --cc --main --build --exe --timing --trace --top-module <TEST-BENCH-MODULE-NAME> *.v
+verilator --cc [--exe] --build -j 0 -Wall <file>.cpp <file>.v
