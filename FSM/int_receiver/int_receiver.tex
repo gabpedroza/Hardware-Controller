@@ -1,0 +1,21 @@
+\documentclass[tikz,convert={outfile=\jobname.svg}]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning, arrows.meta, bending} % 'positioning' is helpful for arranging nodes
+
+\begin{document}
+\begin{tikzpicture}[node distance=5cm, auto, state/.style={draw=red,shape=circle,text=red}, every node/.style={text=red}]
+
+    % Define the states (nodes)
+    \node[state, align=center] (s0) {WAIT\\(START)}; % Initial state 'q0'
+    \node[state, right of=s0,align=center] (s1) {GET\\BYTE}; % Accepting state 'q1', positioned to the right of 'q0'
+    \node[state, right of=s1] (s2) {WAIT};
+    % Define the transitions (edges)
+    \path[->, draw=red] %[draw = red]
+    (s0) edge [bend right] node[below] {avail = posedge} (s1) % Transition from q0 to q1 labeled 'a'
+    (s1) edge [bend right] node[above] {bytes = 4} (s0) % Transition from q0 to q1 labeled 'a'
+    (s0) edge [loop above] node {avail = constant} (s0) % Transition from q1 to q0 labeled 'b'
+    (s1) edge[bend right] node[below] {bytes $<$ 4} (s2)
+    (s2) edge [bend right] node[above] {avail = posedge} (s1);
+\end{tikzpicture}
+\end{document}
+
