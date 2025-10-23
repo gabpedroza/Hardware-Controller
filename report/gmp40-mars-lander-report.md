@@ -185,7 +185,7 @@ Even with its limitations, however, I am fairly confident this project can be re
 
 ## Acknowledgements
 
-I'd like to acknowledge the use of generative AI in helping me debug my design, suggesting changes (including to this report), teaching me parts of Verilog, and helping me write the state machines in LaTeX for this report. However, I do guarantee that not once did AI automatically write anything, and that every small suggestion was carefully analysed before being manually incorporated, and heavily altered in the final text (as in the case for the state machine diagrams). I further acknowledge being greatly helped by [this](https://www.youtube.com/watch?v=uHw7QyL4CM8) video, and using the `.cst` file as provided [here](https://github.com/sipeed/TangNano-20K-example/blob/main/uart/src/top.cst) in order to know how to map my module interface to FPGA pins.  
+I'd like to acknowledge the use of generative AI in helping me debug my design, suggesting changes (including to this report), teaching me parts of Verilog, and helping me write the state machines in LaTeX for this report. However, I do guarantee that not once did AI automatically write anything, and that every small suggestion was carefully analysed before being manually incorporated, and heavily altered in the final text (as in the case for the LaTeX code for state machine diagrams). I further acknowledge being greatly helped by [this](https://www.youtube.com/watch?v=uHw7QyL4CM8) video, and using the `.cst` file as provided [here](https://github.com/sipeed/TangNano-20K-example/blob/main/uart/src/top.cst) in order to know how to map my module interface to FPGA pins.  
 
 Lastly, I would like to thank the support from my parents and Jesus in this project.
 
